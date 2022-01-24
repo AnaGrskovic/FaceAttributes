@@ -1,0 +1,9 @@
+pathlib
+numpy
+pandas
+opencv-python
+imutils
+pillow
+tensorflow
+sklearn
+tqdm
